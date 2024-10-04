@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\bots\\messagereactionbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:bots\\messagereactionbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\bots\\experimentdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:bots\\experimentdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\teamsapp\\apppackage\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\apppackage\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\model\\runmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:model\\runmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\model\\aimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:model\\aimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\teamsapp\\apppackage\\outline.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\apppackage\\outline.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\deploymenttemplates\\deploywithnewresourcegroup\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:deploymenttemplates\\deploywithnewresourcegroup\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\deploymenttemplates\\deploywithnewresourcegroup\\template-botapp-new-rg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:deploymenttemplates\\deploywithnewresourcegroup\\template-botapp-new-rg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\deploymenttemplates\\deployuseexistresourcegroup\\template-botapp-with-rg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:deploymenttemplates\\deployuseexistresourcegroup\\template-botapp-with-rg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\teamsapp\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\deploymenttemplates\\deployuseexistresourcegroup\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:deploymenttemplates\\deployuseexistresourcegroup\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\teamsapp\\teamsapp.local.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12D71071-264C-48D4-9833-12C2FB6F524D}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\teamsapp.local.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|c:\\users\\fapeng\\downloads\\microsoft-teams-samples-main\\microsoft-teams-samples-main\\samples\\bot-message-reaction\\zebraaibot\\messagereaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{974209C8-26DD-407B-9EF2-910B12FF236E}|MessageReaction.csproj|solutionrelative:messagereaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployWithNewResourceGroup\\readme.md",
+              "RelativeDocumentMoniker": "DeploymentTemplates\\DeployWithNewResourceGroup\\readme.md",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployWithNewResourceGroup\\readme.md",
+              "RelativeToolTip": "DeploymentTemplates\\DeployWithNewResourceGroup\\readme.md",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwCcAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-02T11:01:07.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployUseExistResourceGroup\\readme.md",
+              "RelativeDocumentMoniker": "DeploymentTemplates\\DeployUseExistResourceGroup\\readme.md",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployUseExistResourceGroup\\readme.md",
+              "RelativeToolTip": "DeploymentTemplates\\DeployUseExistResourceGroup\\readme.md",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-02T11:01:01.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExperimentDemo.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Bots\\ExperimentDemo.cs",
+              "RelativeDocumentMoniker": "Bots\\ExperimentDemo.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Bots\\ExperimentDemo.cs",
+              "RelativeToolTip": "Bots\\ExperimentDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:33:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AIModels.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Model\\AIModels.cs",
+              "RelativeDocumentMoniker": "Model\\AIModels.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Model\\AIModels.cs",
+              "RelativeToolTip": "Model\\AIModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:39:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RunModel.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Model\\RunModel.cs",
+              "RelativeDocumentMoniker": "Model\\RunModel.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Model\\RunModel.cs",
+              "RelativeToolTip": "Model\\RunModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:40:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageReactionBot.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Bots\\MessageReactionBot.cs",
+              "RelativeDocumentMoniker": "Bots\\MessageReactionBot.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Bots\\MessageReactionBot.cs",
+              "RelativeToolTip": "Bots\\MessageReactionBot.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwEsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:16:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthHelper.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\AuthHelper.cs",
+              "RelativeDocumentMoniker": "AuthHelper.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\AuthHelper.cs",
+              "RelativeToolTip": "AuthHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:41:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T07:50:51.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:50:55.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\appPackage\\manifest.json",
+              "RelativeDocumentMoniker": "TeamsApp\\appPackage\\manifest.json",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\appPackage\\manifest.json",
+              "RelativeToolTip": "TeamsApp\\appPackage\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T07:11:20.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "template-BotApp-new-rg.json",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployWithNewResourceGroup\\template-BotApp-new-rg.json",
+              "RelativeDocumentMoniker": "DeploymentTemplates\\DeployWithNewResourceGroup\\template-BotApp-new-rg.json",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployWithNewResourceGroup\\template-BotApp-new-rg.json",
+              "RelativeToolTip": "DeploymentTemplates\\DeployWithNewResourceGroup\\template-BotApp-new-rg.json",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwLgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T11:01:10.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "outline.png",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\appPackage\\outline.png",
+              "RelativeDocumentMoniker": "TeamsApp\\appPackage\\outline.png",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\appPackage\\outline.png",
+              "RelativeToolTip": "TeamsApp\\appPackage\\outline.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-04T03:22:05.986Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "template-BotApp-with-rg.json",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployUseExistResourceGroup\\template-BotApp-with-rg.json",
+              "RelativeDocumentMoniker": "DeploymentTemplates\\DeployUseExistResourceGroup\\template-BotApp-with-rg.json",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\DeploymentTemplates\\DeployUseExistResourceGroup\\template-BotApp-with-rg.json",
+              "RelativeToolTip": "DeploymentTemplates\\DeployUseExistResourceGroup\\template-BotApp-with-rg.json",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwKcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T11:01:44.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdapterWithErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\AdapterWithErrorHandler.cs",
+              "RelativeDocumentMoniker": "AdapterWithErrorHandler.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\AdapterWithErrorHandler.cs",
+              "RelativeToolTip": "AdapterWithErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:36:13.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "teamsapp.local.yml",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\teamsapp.local.yml",
+              "RelativeDocumentMoniker": "TeamsApp\\teamsapp.local.yml",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\teamsapp.local.yml",
+              "RelativeToolTip": "TeamsApp\\teamsapp.local.yml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-23T13:07:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeamsApp\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\TeamsApp\\launchSettings.json",
+              "RelativeToolTip": "TeamsApp\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T13:06:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageReaction.csproj",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\MessageReaction.csproj",
+              "RelativeDocumentMoniker": "MessageReaction.csproj",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\MessageReaction.csproj",
+              "RelativeToolTip": "MessageReaction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T07:44:37.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:13:30.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\fapeng\\Downloads\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-message-reaction\\zebraAIBot\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAFsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-18T07:11:36.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
