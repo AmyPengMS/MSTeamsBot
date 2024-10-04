@@ -31,7 +31,7 @@ namespace Microsoft.BotBuilderSamples.Bots
             {
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
-                    var welcomeText = "Hello, I'm your bot. Just as you are aware, I can help you to get zebra AI data. Please provide your information by following this format: CaseReview:CaseID. For example: Case Review:2890909090. Try to ask me about it!";
+                    var welcomeText = "Hello, I'm your bot. Just as you are aware, I can help you to get zebra AI data. Please provide your information by following this format: CaseReview:CaseID. For example: Case Review:1111111111. Try to ask me about it!";
                     await turnContext.SendActivityAsync(MessageFactory.Text(welcomeText, welcomeText), cancellationToken);
                 }
             }
@@ -45,7 +45,7 @@ namespace Microsoft.BotBuilderSamples.Bots
             string expeirementname;
             ExperimentDemo ExperimentDemo = new ExperimentDemo();
 
-            const string expeirmentid = "9c2bd275-4e84-44e7-8425-c2968ae69eb8";//casereview
+            const string expeirmentid = "your expeirementid";//casereview
 
 
             if (turnContext.Activity.Text.ToLower().Contains(":"))
@@ -65,7 +65,7 @@ namespace Microsoft.BotBuilderSamples.Bots
                
                 else
                 {
-                    messagecontent = "You have sent the wrong format. Please provide your information by following this format: CaseReview:CaseID. For example: Case Review:2890909090. Try to ask me about it!";
+                    messagecontent = "You have sent the wrong format. Please provide your information by following this format: CaseReview:CaseID. For example: Case Review:11111111. Try to ask me about it!";
                     await SendMessageAndLogActivityId(turnContext, messagecontent, cancellationToken);
                 }
             }
@@ -73,7 +73,7 @@ namespace Microsoft.BotBuilderSamples.Bots
             else
             {
 
-                messagecontent = "You have sent the wrong format. Please provide your information by following this format: CaseReview:CaseID. For example: Case Review:2890909090. Try to ask me about it!";
+                messagecontent = "You have sent the wrong format. Please provide your information by following this format: CaseReview:CaseID. For example: Case Review:1111111. Try to ask me about it!";
                 await SendMessageAndLogActivityId(turnContext, messagecontent, cancellationToken);
 
             }
