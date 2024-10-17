@@ -14,8 +14,7 @@ namespace MessageReaction
 {
    public class AuthHelper
     {
-        private static readonly string _prdUrl = "https://zebra-ai-webapi-prd.azurewebsites.net/";
-        private static readonly string _uatUrl = "https://zebra-ai-webapi-uat.azurewebsites.net/";
+        private static readonly string _prdUrl = "yourzebraaiwebsite";
         private static readonly string _devUrl = "https://localhost:7242/";
 
         private readonly IConfiguration _configuration;
@@ -45,13 +44,13 @@ namespace MessageReaction
                 else
                 {
                  
-                    var clientId =_configuration["MicrosoftAppId"];
-                    var clientSecret = _configuration["MicrosoftAppPassword"];
-                    var tenantId = _configuration["MicrosoftAppTenantId"];
-                    var scope = "api://9021b3a5-1f0d-4fb7-ad3f-d6989f0432d8/.default";
+                    var clientId =_configuration["AppId"];
+                    var clientSecret = _configuration["AppPassword"];
+                    var tenantId = _configuration["AppTenantId"];
+                    var scope = "yourzebraaiscope";
 
                     var client = new HttpClient();
-                    var request = new HttpRequestMessage(HttpMethod.Post, $"https://login.microsoftonline.com/{tenantId}/oauth2/v2.0/token");
+                    var request = new HttpRequestMessage(HttpMethod.Post, $"yourtokenuri");
 
                     var body = new FormUrlEncodedContent(new[]
                     {
