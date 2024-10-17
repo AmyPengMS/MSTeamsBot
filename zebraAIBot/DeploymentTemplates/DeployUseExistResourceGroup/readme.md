@@ -20,7 +20,7 @@ Command line:
 
 - **appId**:(required)                                        Active Directory App ID or User-Assigned Managed Identity Client ID, set as MicrosoftAppId in the Web App's Application Settings.
 
-- **appSecret**:(required for MultiTenant and SingleTenant)   Active Directory App Password, set as MicrosoftAppPassword in the Web App's Application Settings.
+- **appSecret**:(required for MultiTenant and SingleTenant)   Active Directory App Password, set as AppPassword in the Web App's Application Settings.
 
 - **UMSIName**:(required for UserAssignedMSI)                 The User-Assigned Managed Identity Resource used for the Bot's Authentication.
 
