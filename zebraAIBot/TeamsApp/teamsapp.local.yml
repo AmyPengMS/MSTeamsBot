@@ -42,10 +42,10 @@ provision:
     with:
       target: ../appsettings.json
       content:
-        MicrosoftAppId: ${{AAD_APP_CLIENT_ID}}
-        MicrosoftAppPassword: ${{SECRET_AAD_APP_CLIENT_SECRET}}
-        MicrosoftAppType: ${{MICROSOFT_APP_TYPE}}
-        MicrosoftAppTenantId: ${{MICROSOFT_APP_TENANT_ID}}
+        AppId: ${{AAD_APP_CLIENT_ID}}
+        AppPassword: ${{SECRET_AAD_APP_CLIENT_SECRET}}
+        AppType: ${{MICROSOFT_APP_TYPE}}
+        AppTenantId: ${{MICROSOFT_APP_TENANT_ID}}
 
   - uses: arm/deploy # Deploy given ARM templates parallelly.
     with:
