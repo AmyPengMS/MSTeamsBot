@@ -45,7 +45,6 @@ namespace MessageReaction
                 {
                  
                     var clientId =_configuration["AppId"];
-                    var clientSecret = _configuration["AppPassword"];
                     var tenantId = _configuration["AppTenantId"];
                     var scope = "yourzebraaiscope";
 
